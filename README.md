@@ -5,8 +5,7 @@
 #include "gl.h"
 #include "glu.h"
 #include <math.h>
-//#pragma comment(lib, "wininet.lib")
-//#pragma comment(lib, "OpenGL32.Lib")
+
 
 double me_x = 0, me_y = 0, me_z = 0.5; //目の座標
 double delta = 0.00; //移動量
